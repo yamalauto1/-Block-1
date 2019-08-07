@@ -580,6 +580,7 @@ else
 
 
 
+
 <?php
 //   $lang = 'ru';
 //    if ($lang == 'ru') {
